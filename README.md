@@ -3,7 +3,7 @@
 
 ## Подключение
 
-Подключение библиотеки осуществляется через `Swift Package Manager`. В Xcode выберите в меню `File -> Swift Packages -> Add Package Dependency` и введите в поле адреса репозитория `https://github.com/VK-RuStore/maps-sdk-ios`.
+Подключение библиотеки осуществляется через `Swift Package Manager`. В Xcode выберите в меню `File -> Swift Packages -> Add Package Dependency` и введите в поле адреса репозитория `https://github.com/geors/maps-sdk-ios`.
 
 Выберите `MapsSDK` и добавьте его к цели вашего приложения.
 
