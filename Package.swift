@@ -1,4 +1,5 @@
 // swift-tools-version:5.7
+
 import PackageDescription
 
 let package = Package(
@@ -14,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MapsSDK",
-            url: "https://mmr.jfrog.io/artifactory/rs-maps-sdk-ios/1.0.102/MapsSDK.xcframework.zip",
-            checksum: "4f064f97c8004b13be04b44f002a88e6c018d5b0136d2167efc0519e40a95324"
+            url: "https://mmr.jfrog.io/artifactory/rs-maps-sdk-ios/1.0.105/MapsSDK.xcframework.zip",
+            checksum: "6c39418f2df9b395acd66c462c354ada0cc40dff9ac18d28f889bdf32da82f60"
         )
     ]
 )
